@@ -28,6 +28,7 @@ This is a beginner-level command-line project created to practice core programmi
 
 ---
 
+
 ## ▶️ How to Run the Project
 
 1. Make sure Python is installed  
