@@ -34,3 +34,21 @@ This is a beginner-level command-line project created to practice core programmi
 1. Make sure Python is installed  
    ```bash
    python --version
+
+2. Clone the repository
+
+git clone https://github.com/your-username/project1.git
+
+
+
+3. Navigate to the project folder
+
+cd project1
+
+
+
+4. Run the program
+python main.py
+
+
+
